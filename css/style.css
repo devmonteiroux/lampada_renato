@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+.botao {
+    text-align: center;
+}
+
+.img img.img-hover {
+    display: none;
+    text-align: center;
+
+}
+
+.img:hover img.img-d {
+    display: none;
+    text-align: center;
+
+
+}
+
+.img:hover img.img-hover {
+    display: initial;
+    text-align: center;
+
+}
